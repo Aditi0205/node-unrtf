@@ -1,4 +1,4 @@
-# unrtf
+# Rtf Converter
 
 Converts RTF documents to HTML. It features two engines that performs a bit differently, so you might try both on your RTF data.
 
